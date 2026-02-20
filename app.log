@@ -1,0 +1,342 @@
+2026-02-20 15:26:36,320 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.132.43.86:5000
+2026-02-20 15:26:36,320 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 15:26:36,327 - INFO -  * Restarting with stat
+2026-02-20 15:26:38,278 - WARNING -  * Debugger is active!
+2026-02-20 15:26:38,282 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 15:26:50,733 - ERROR - Error serving home page: index.html
+2026-02-20 15:26:50,735 - INFO - 127.0.0.1 - - [20/Feb/2026 15:26:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 15:26:58,058 - ERROR - Error serving home page: index.html
+2026-02-20 15:26:58,060 - INFO - 127.0.0.1 - - [20/Feb/2026 15:26:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 15:26:58,135 - INFO - 127.0.0.1 - - [20/Feb/2026 15:26:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-20 15:27:45,835 - ERROR - Error serving home page: index.html
+2026-02-20 15:27:45,836 - INFO - 127.0.0.1 - - [20/Feb/2026 15:27:45] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 15:27:49,557 - ERROR - Error serving home page: index.html
+2026-02-20 15:27:49,558 - INFO - 127.0.0.1 - - [20/Feb/2026 15:27:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 15:50:31,752 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.132.43.86:5000
+2026-02-20 15:50:31,752 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 15:50:31,759 - INFO -  * Restarting with stat
+2026-02-20 15:50:33,800 - WARNING -  * Debugger is active!
+2026-02-20 15:50:33,802 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 15:51:21,071 - ERROR - Error serving home page: index.html
+2026-02-20 15:51:21,073 - INFO - 127.0.0.1 - - [20/Feb/2026 15:51:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 15:52:18,413 - ERROR - Error serving home page: index.html
+2026-02-20 15:52:18,414 - INFO - 127.0.0.1 - - [20/Feb/2026 15:52:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 15:52:23,055 - ERROR - Error serving home page: index.html
+2026-02-20 15:52:23,056 - INFO - 127.0.0.1 - - [20/Feb/2026 15:52:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 15:52:23,116 - INFO - 127.0.0.1 - - [20/Feb/2026 15:52:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-20 16:29:22,949 - ERROR - Error serving home page: index.html
+2026-02-20 16:29:22,952 - INFO - 127.0.0.1 - - [20/Feb/2026 16:29:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 16:30:46,894 - ERROR - Error serving home page: index.html
+2026-02-20 16:30:46,905 - INFO - 127.0.0.1 - - [20/Feb/2026 16:30:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 16:30:54,736 - ERROR - Error serving home page: index.html
+2026-02-20 16:30:54,737 - INFO - 127.0.0.1 - - [20/Feb/2026 16:30:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 17:07:43,878 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 17:07:44,256 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 17:07:44,793 - INFO -  * Restarting with stat
+2026-02-20 17:07:44,916 - INFO -  * Restarting with stat
+2026-02-20 17:07:49,657 - WARNING -  * Debugger is active!
+2026-02-20 17:07:49,662 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 17:07:49,700 - WARNING -  * Debugger is active!
+2026-02-20 17:07:49,703 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 17:36:39,932 - ERROR - Error serving home page: index.html
+2026-02-20 17:36:39,935 - INFO - 127.0.0.1 - - [20/Feb/2026 17:36:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 17:36:43,305 - ERROR - Error serving home page: index.html
+2026-02-20 17:36:43,306 - INFO - 127.0.0.1 - - [20/Feb/2026 17:36:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 18:05:44,950 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.132.43.86:5000
+2026-02-20 18:05:44,950 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 18:05:44,953 - INFO -  * Restarting with stat
+2026-02-20 18:05:47,462 - WARNING -  * Debugger is active!
+2026-02-20 18:05:47,465 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:09:06,808 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:09:07,107 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:09:07,577 - INFO -  * Restarting with stat
+2026-02-20 18:09:08,038 - INFO -  * Restarting with stat
+2026-02-20 18:09:10,395 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:09:10,407 - INFO - Backend ready! Starting server on http://0.0.0.0:5000
+2026-02-20 18:09:10,420 - WARNING -  * Debugger is active!
+2026-02-20 18:09:10,423 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:09:20,792 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:09:20,804 - INFO - Backend ready! Starting server on http://0.0.0.0:5000
+2026-02-20 18:09:20,842 - WARNING -  * Debugger is active!
+2026-02-20 18:09:20,845 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 18:09:32,572 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:09:32,584 - INFO - Backend ready! Starting server on http://0.0.0.0:5000
+2026-02-20 18:09:32,619 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.132.43.86:5000
+2026-02-20 18:09:32,619 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 18:09:32,621 - INFO -  * Restarting with stat
+2026-02-20 18:09:34,975 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:09:34,989 - INFO - Backend ready! Starting server on http://0.0.0.0:5000
+2026-02-20 18:09:35,001 - WARNING -  * Debugger is active!
+2026-02-20 18:09:35,004 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:10:51,636 - ERROR - Error serving home page: index.html
+2026-02-20 18:10:51,642 - INFO - 127.0.0.1 - - [20/Feb/2026 18:10:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 18:13:13,127 - ERROR - Error serving home page: index.html
+2026-02-20 18:13:13,131 - INFO - 127.0.0.1 - - [20/Feb/2026 18:13:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 18:13:31,069 - ERROR - Error serving home page: index.html
+2026-02-20 18:13:31,070 - INFO - 127.0.0.1 - - [20/Feb/2026 18:13:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-02-20 18:35:09,854 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:35:09,869 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:35:10,353 - INFO -  * Restarting with stat
+2026-02-20 18:35:10,382 - INFO -  * Restarting with stat
+2026-02-20 18:35:13,292 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:35:13,308 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:35:13,325 - WARNING -  * Debugger is active!
+2026-02-20 18:35:13,328 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:35:13,363 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:35:13,378 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:35:13,388 - WARNING -  * Debugger is active!
+2026-02-20 18:35:13,392 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 18:36:14,236 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:36:14,755 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:36:14,774 - INFO -  * Restarting with stat
+2026-02-20 18:36:15,210 - INFO -  * Restarting with stat
+2026-02-20 18:36:17,668 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:36:17,678 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:36:17,692 - WARNING -  * Debugger is active!
+2026-02-20 18:36:17,695 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:36:18,012 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:36:18,024 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:36:18,034 - WARNING -  * Debugger is active!
+2026-02-20 18:36:18,037 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 18:36:30,118 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:36:30,264 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:36:30,808 - INFO -  * Restarting with stat
+2026-02-20 18:36:30,909 - INFO -  * Restarting with stat
+2026-02-20 18:36:33,362 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:36:33,376 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:36:33,389 - WARNING -  * Debugger is active!
+2026-02-20 18:36:33,392 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 18:36:33,453 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:36:33,463 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:36:33,475 - WARNING -  * Debugger is active!
+2026-02-20 18:36:33,478 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:40:37,406 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:40:37,421 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:40:37,449 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-20 18:40:37,450 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 18:40:37,452 - INFO -  * Restarting with stat
+2026-02-20 18:40:39,688 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:40:39,702 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:40:39,715 - WARNING -  * Debugger is active!
+2026-02-20 18:40:39,718 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:41:09,313 - INFO - 127.0.0.1 - - [20/Feb/2026 18:41:09] "GET / HTTP/1.1" 200 -
+2026-02-20 18:41:52,067 - INFO - Prediction made: Low Risk (Confidence: 77.0%)
+2026-02-20 18:41:52,069 - INFO - 127.0.0.1 - - [20/Feb/2026 18:41:52] "POST /api/predict HTTP/1.1" 200 -
+2026-02-20 18:45:51,699 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:45:52,317 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:45:52,380 - INFO -  * Restarting with stat
+2026-02-20 18:45:52,816 - INFO -  * Restarting with stat
+2026-02-20 18:45:57,094 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:45:57,123 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:45:57,144 - WARNING -  * Debugger is active!
+2026-02-20 18:45:57,149 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 18:46:15,183 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:46:15,209 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:46:15,257 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-20 18:46:15,258 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 18:46:15,262 - INFO -  * Restarting with stat
+2026-02-20 18:46:19,665 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:46:19,696 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:46:19,720 - WARNING -  * Debugger is active!
+2026-02-20 18:46:19,726 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:46:34,200 - INFO - 127.0.0.1 - - [20/Feb/2026 18:46:34] "GET / HTTP/1.1" 200 -
+2026-02-20 18:47:27,267 - INFO - Prediction made: Low Risk (Confidence: 73.0%)
+2026-02-20 18:47:27,269 - INFO - 127.0.0.1 - - [20/Feb/2026 18:47:27] "POST /api/predict HTTP/1.1" 200 -
+2026-02-20 18:51:31,362 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:51:31,394 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:51:31,443 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-20 18:51:31,444 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 18:51:31,447 - INFO -  * Restarting with stat
+2026-02-20 18:51:35,729 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:51:35,755 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:51:35,778 - WARNING -  * Debugger is active!
+2026-02-20 18:51:35,784 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:51:52,508 - INFO - 127.0.0.1 - - [20/Feb/2026 18:51:52] "GET / HTTP/1.1" 200 -
+2026-02-20 18:52:25,033 - INFO - Prediction made: Low Risk (Confidence: 56.99999999999999%)
+2026-02-20 18:52:25,035 - INFO - 127.0.0.1 - - [20/Feb/2026 18:52:25] "POST /api/predict HTTP/1.1" 200 -
+2026-02-20 18:53:17,692 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:53:17,712 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:53:17,758 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-20 18:53:17,758 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 18:53:17,762 - INFO -  * Restarting with stat
+2026-02-20 18:53:22,018 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:53:22,043 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:53:22,066 - WARNING -  * Debugger is active!
+2026-02-20 18:53:22,071 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:53:40,986 - INFO - 127.0.0.1 - - [20/Feb/2026 18:53:40] "GET / HTTP/1.1" 200 -
+2026-02-20 18:54:57,494 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:54:58,003 - INFO -  * Restarting with stat
+2026-02-20 18:54:58,190 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:54:58,717 - INFO -  * Restarting with stat
+2026-02-20 18:55:02,772 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:55:02,794 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:55:02,819 - WARNING -  * Debugger is active!
+2026-02-20 18:55:02,824 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 18:55:11,917 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 18:55:12,364 - INFO -  * Restarting with stat
+2026-02-20 18:55:16,770 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:55:16,791 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:55:16,810 - WARNING -  * Debugger is active!
+2026-02-20 18:55:16,815 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 18:55:33,927 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:55:33,957 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:55:33,998 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-20 18:55:33,998 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 18:55:34,002 - INFO -  * Restarting with stat
+2026-02-20 18:55:38,551 - INFO - Initializing SmartCare Backend...
+2026-02-20 18:55:38,575 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 18:55:38,601 - WARNING -  * Debugger is active!
+2026-02-20 18:55:38,609 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 18:55:58,097 - INFO - 127.0.0.1 - - [20/Feb/2026 18:55:58] "GET / HTTP/1.1" 200 -
+2026-02-20 18:57:15,478 - INFO - Prediction made: Low Risk (Confidence: 52.0%)
+2026-02-20 18:57:15,481 - INFO - 127.0.0.1 - - [20/Feb/2026 18:57:15] "POST /api/predict HTTP/1.1" 200 -
+2026-02-20 19:01:31,695 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:01:31,706 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:01:31,726 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-20 19:01:31,726 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 19:01:31,729 - INFO -  * Restarting with stat
+2026-02-20 19:01:33,542 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:01:33,551 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:01:33,559 - WARNING -  * Debugger is active!
+2026-02-20 19:01:33,561 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 19:02:35,287 - INFO - 127.0.0.1 - - [20/Feb/2026 19:02:35] "GET / HTTP/1.1" 200 -
+2026-02-20 19:03:01,277 - INFO - Prediction made: Low Risk (Confidence: 73.0%)
+2026-02-20 19:03:01,278 - INFO - 127.0.0.1 - - [20/Feb/2026 19:03:01] "POST /api/predict HTTP/1.1" 200 -
+2026-02-20 19:05:42,959 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 19:05:43,252 - INFO -  * Restarting with stat
+2026-02-20 19:05:43,293 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 19:05:43,638 - INFO -  * Restarting with stat
+2026-02-20 19:05:45,410 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:05:45,423 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:05:45,435 - WARNING -  * Debugger is active!
+2026-02-20 19:05:45,437 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 19:05:45,751 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:05:45,760 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:05:45,770 - WARNING -  * Debugger is active!
+2026-02-20 19:05:45,772 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 19:05:57,833 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 19:05:58,120 - INFO -  * Restarting with stat
+2026-02-20 19:05:58,608 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 19:05:58,914 - INFO -  * Restarting with stat
+2026-02-20 19:06:00,156 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:06:00,170 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:06:00,199 - WARNING -  * Debugger is active!
+2026-02-20 19:06:00,214 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 19:06:01,058 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:06:01,069 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:06:01,077 - WARNING -  * Debugger is active!
+2026-02-20 19:06:01,079 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 19:08:14,810 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 19:08:15,135 - INFO -  * Restarting with stat
+2026-02-20 19:08:15,481 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-20 19:08:15,802 - INFO -  * Restarting with stat
+2026-02-20 19:08:17,150 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:08:17,160 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:08:17,169 - WARNING -  * Debugger is active!
+2026-02-20 19:08:17,171 - INFO -  * Debugger PIN: 691-225-142
+2026-02-20 19:08:17,836 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:08:17,847 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:08:17,859 - WARNING -  * Debugger is active!
+2026-02-20 19:08:17,862 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 19:48:10,407 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:48:10,419 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:48:10,450 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-20 19:48:10,450 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 19:48:10,453 - INFO -  * Restarting with stat
+2026-02-20 19:48:12,372 - INFO - Initializing SmartCare Backend...
+2026-02-20 19:48:12,382 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 19:48:12,392 - WARNING -  * Debugger is active!
+2026-02-20 19:48:12,397 - INFO -  * Debugger PIN: 135-917-720
+2026-02-20 19:49:46,108 - INFO - 127.0.0.1 - - [20/Feb/2026 19:49:46] "GET / HTTP/1.1" 200 -
+2026-02-20 19:49:48,121 - INFO - 127.0.0.1 - - [20/Feb/2026 19:49:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-20 19:50:33,008 - INFO - Prediction made: Low Risk (Confidence: 67.0%)
+2026-02-20 19:50:33,009 - INFO - 127.0.0.1 - - [20/Feb/2026 19:50:33] "POST /api/predict HTTP/1.1" 200 -
+2026-02-20 23:59:10,611 - INFO - Initializing SmartCare Backend...
+2026-02-20 23:59:10,664 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 23:59:10,808 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-20 23:59:10,808 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-20 23:59:10,820 - INFO -  * Restarting with stat
+2026-02-20 23:59:14,038 - INFO - Initializing SmartCare Backend...
+2026-02-20 23:59:14,058 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-20 23:59:14,076 - WARNING -  * Debugger is active!
+2026-02-20 23:59:14,082 - INFO -  * Debugger PIN: 135-917-720
+2026-02-21 00:01:20,544 - INFO - 127.0.0.1 - - [21/Feb/2026 00:01:20] "GET / HTTP/1.1" 200 -
+2026-02-21 00:01:22,822 - INFO - 127.0.0.1 - - [21/Feb/2026 00:01:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-21 00:03:07,263 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-21 00:03:07,889 - INFO -  * Restarting with stat
+2026-02-21 00:03:11,015 - INFO - Initializing SmartCare Backend...
+2026-02-21 00:03:11,038 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-21 00:03:11,053 - WARNING -  * Debugger is active!
+2026-02-21 00:03:11,057 - INFO -  * Debugger PIN: 135-917-720
+2026-02-21 00:03:42,338 - INFO -  * Detected change in 'C:\\Users\\BHOOMIKA\\.vscode\\smart care\\ML_Project\\pinky.py', reloading
+2026-02-21 00:03:42,899 - INFO -  * Restarting with stat
+2026-02-21 00:03:46,007 - INFO - Initializing SmartCare Backend...
+2026-02-21 00:03:46,029 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-21 00:03:46,046 - WARNING -  * Debugger is active!
+2026-02-21 00:03:46,050 - INFO -  * Debugger PIN: 135-917-720
+2026-02-21 00:04:15,805 - INFO - Initializing SmartCare Backend...
+2026-02-21 00:04:15,829 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-21 00:04:15,862 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-21 00:04:15,862 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-21 00:04:15,865 - INFO -  * Restarting with stat
+2026-02-21 00:04:18,744 - INFO - Initializing SmartCare Backend...
+2026-02-21 00:04:18,763 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-21 00:04:18,781 - WARNING -  * Debugger is active!
+2026-02-21 00:04:18,787 - INFO -  * Debugger PIN: 135-917-720
+2026-02-21 00:04:43,161 - INFO - 127.0.0.1 - - [21/Feb/2026 00:04:43] "GET / HTTP/1.1" 200 -
+2026-02-21 00:04:44,797 - INFO - 127.0.0.1 - - [21/Feb/2026 00:04:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-21 00:06:27,211 - INFO - Prediction made: Low Risk (Confidence: 77.0%)
+2026-02-21 00:06:27,216 - INFO - 127.0.0.1 - - [21/Feb/2026 00:06:27] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:06:40,021 - INFO - Prediction made: Low Risk (Confidence: 77.0%)
+2026-02-21 00:06:40,022 - INFO - 127.0.0.1 - - [21/Feb/2026 00:06:40] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:06:49,390 - INFO - Prediction made: Low Risk (Confidence: 77.0%)
+2026-02-21 00:06:49,391 - INFO - 127.0.0.1 - - [21/Feb/2026 00:06:49] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:07:06,623 - INFO - Prediction made: Low Risk (Confidence: 75.0%)
+2026-02-21 00:07:06,624 - INFO - 127.0.0.1 - - [21/Feb/2026 00:07:06] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:07:20,373 - INFO - Prediction made: High Risk (Confidence: 53.0%)
+2026-02-21 00:07:20,374 - INFO - 127.0.0.1 - - [21/Feb/2026 00:07:20] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:07:35,439 - INFO - Prediction made: High Risk (Confidence: 53.0%)
+2026-02-21 00:07:35,440 - INFO - 127.0.0.1 - - [21/Feb/2026 00:07:35] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:07:37,820 - INFO - Prediction made: High Risk (Confidence: 53.0%)
+2026-02-21 00:07:37,822 - INFO - 127.0.0.1 - - [21/Feb/2026 00:07:37] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:09:23,077 - INFO - Prediction made: Low Risk (Confidence: 57.99999999999999%)
+2026-02-21 00:09:23,078 - INFO - 127.0.0.1 - - [21/Feb/2026 00:09:23] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:09:32,602 - INFO - Prediction made: Low Risk (Confidence: 57.99999999999999%)
+2026-02-21 00:09:32,604 - INFO - 127.0.0.1 - - [21/Feb/2026 00:09:32] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:09:42,069 - INFO - Prediction made: High Risk (Confidence: 66.0%)
+2026-02-21 00:09:42,070 - INFO - 127.0.0.1 - - [21/Feb/2026 00:09:42] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:11:29,644 - INFO - Prediction made: Low Risk (Confidence: 77.0%)
+2026-02-21 00:11:29,646 - INFO - 127.0.0.1 - - [21/Feb/2026 00:11:29] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:11:39,036 - INFO - Prediction made: Low Risk (Confidence: 77.0%)
+2026-02-21 00:11:39,037 - INFO - 127.0.0.1 - - [21/Feb/2026 00:11:39] "POST /api/predict HTTP/1.1" 200 -
+2026-02-21 00:19:23,867 - INFO - Initializing SmartCare Backend...
+2026-02-21 00:19:23,883 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-21 00:19:23,931 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-21 00:19:23,931 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-21 00:19:23,933 - INFO -  * Restarting with stat
+2026-02-21 00:19:26,888 - INFO - Initializing SmartCare Backend...
+2026-02-21 00:19:26,920 - INFO - Backend ready! Starting server on http://127.0.0.1:5000
+2026-02-21 00:19:26,943 - WARNING -  * Debugger is active!
+2026-02-21 00:19:26,946 - INFO -  * Debugger PIN: 135-917-720
